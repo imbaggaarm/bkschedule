@@ -1,5 +1,5 @@
 # BKSchedule
-Trang github chính thức của BKSchedule
+Trang Github chính thức của BKSchedule.
 
 ## Android
 - [Tải phiên bản v2.0.0 cho Android](https://github.com/imbaggaarm/bkschedule/raw/master/bkschedule.apk)
