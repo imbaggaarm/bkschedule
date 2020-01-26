@@ -2,7 +2,7 @@
 Trang Github chính thức của **BKSchedule**.
 
 ## Android
-- [Tải phiên bản v2.0.0 cho Android](https://drive.google.com/open?id=1RMl-qPhBDZwyiASIM8WaAk4p4bmbltP-)
+- [Tải BKSchedule cho Android](https://drive.google.com/open?id=1RMl-qPhBDZwyiASIM8WaAk4p4bmbltP-)
 
 ## iOS
 - Phiên bản **iOS** sẽ được đưa lên TestFlight trong thời gian sớm nhất nhé. Mình đã làm xong, nhưng chưa có thời gian để đưa lên Store duyệt cho Public Beta Testing.
